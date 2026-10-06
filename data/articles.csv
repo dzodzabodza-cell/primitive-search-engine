@@ -1,0 +1,13 @@
+title,category,date,body
+Introduction to Linear Algebra,science,2024-01-15,"Linear algebra studies vectors, matrices and linear transformations. Eigenvalues and eigenvectors describe how a matrix stretches space."
+Understanding C++ Memory Management,technology,2024-02-03,"In C++ objects can live on the stack or the heap. Smart pointers such as unique_ptr and shared_ptr manage heap memory automatically and prevent leaks."
+Structs versus Classes in C++,technology,2024-02-20,"A struct and a class differ only in default access: struct members are public, class members are private. Classes usually bundle data with behaviour."
+The French Revolution,history,2023-07-14,"The French Revolution began in 1789 with the storming of the Bastille and transformed France from a monarchy into a republic."
+Photosynthesis Explained,science,2023-09-02,"Plants convert sunlight, water and carbon dioxide into glucose and oxygen inside chloroplasts through photosynthesis."
+How Search Engines Work,technology,2024-03-11,"A search engine crawls documents, builds an inverted index mapping words to documents, and ranks results with scores such as TF-IDF."
+The Printing Press,history,2022-11-05,"Johannes Gutenberg introduced movable type printing around 1440, which spread books and literacy across Europe."
+"Statistics: Mean, Median and Mode",science,2024-04-01,"The mean is the average, the median is the middle value and the mode is the most frequent value. Standard deviation measures spread."
+Sorting Algorithms Compared,technology,2024-04-18,"Quicksort and mergesort run in O(n log n) on average. Insertion sort is O(n^2) but fast on small or nearly sorted arrays."
+The Apollo 11 Moon Landing,history,2024-07-20,"On 20 July 1969 Apollo 11 landed on the Moon and Neil Armstrong became the first person to walk on its surface."
+Black Holes,science,2023-12-12,"A black hole is a region of space where gravity is so strong that nothing, not even light, can escape beyond the event horizon."
+Hash Tables in Practice,technology,2023-05-30,"A hash table maps keys to buckets using a hash function, giving average constant time lookup. Collisions are resolved by chaining or probing."

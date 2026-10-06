@@ -1,0 +1,4 @@
+Title: The Structure of DNA
+Date: 2024-05-09
+
+DNA is a double helix made of two strands of nucleotides. The bases adenine, thymine, cytosine and guanine pair up to carry genetic information from one generation to the next.
